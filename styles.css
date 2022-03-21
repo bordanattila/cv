@@ -1,0 +1,22 @@
+body {
+  background-color: LightCyan;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: MediumAquamarine;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: SeaGreen;
+  font-family: Comic Sans MS;
+}
+
+.circular {
+  border-radius: 100%;
+}
